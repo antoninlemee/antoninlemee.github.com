@@ -1,12 +1,13 @@
 body {
 	background-color: #57a50a;
 	color: white;
-	font-family: 'Amaranth', sans-serif;
+	font-family: 'Rubik', sans-serif;
 	font-size: 1em;
 	padding-top: 100px;
 }
 
 h1 {
+	font-family: 'Amaranth', sans-serif;
 	font-size: 3.6em;
 	text-align: justify;
 }
